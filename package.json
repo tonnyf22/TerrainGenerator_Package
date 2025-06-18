@@ -1,0 +1,24 @@
+{
+    "name": "com.tonnyf22.terraingenerator",
+    "displayName": "TerrainGenerator",
+    "version": "0.1.0",
+    "unity": "6000.0",
+    "description": "Simple terrain generator based on mathematical noises and node system",
+    "keywords": ["generator", "terrain", "tools"],
+    "author": {
+        "name": "Tonny F22",
+        "email": "dimb0r22@gmail.com"
+    },
+    "samples": [
+        {
+            "displayName": "Example Setup",
+            "description": "Folder with example setups to play with",
+            "path": "ExampleSetup"
+        }
+    ],
+    "dependencies": {
+        "com.dbrizov.naughtyattributes": "2.1.4",
+        "com.github.siccity.xnode": "1.8.0"
+    }
+}
+

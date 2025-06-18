@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7cf2d3c20f9568f98971654a2371229, type: 3}
+  m_Name: BiomeRandomScatteringSettings1_Sands
+  m_EditorClassIdentifier: 
+  scatteringType: 0
+  numberOfPreinstantiatedObjects: 50
+  targetResolution: 2
+  scatteringObject: {fileID: 1041740705640151173, guid: 63ef474474c49511caf3fecb0fc6928e, type: 3}
+  scatteringScale: 2
+  isApplyScaleRange: 1
+  scatteringScaleMin: 1.5
+  scatteringRotation: 360
+  isApplyRotationRange: 1
+  scatteringRotationMin: 0
+  scatteringMinHeight: 0.05
+  scatteringMaxHeight: 1000

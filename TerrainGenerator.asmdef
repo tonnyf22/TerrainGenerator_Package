@@ -1,0 +1,25 @@
+{
+    "name": "TerrainGenerator",
+    "rootNamespace": "",
+    "references": [
+        "XNode",
+        "XNodeEditor",
+        "Unity.Mathematics",
+        "Unity.Mathematics.Editor",
+        "Unity.TextMeshPro",
+        "Unity.TextMeshPro.Editor",
+        "Unity.InputSystem",
+        "Unity.InputSystem.ForUI",
+        "NaughtyAttributes.Core",
+        "NaughtyAttributes.Editor"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
